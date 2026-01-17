@@ -2,11 +2,6 @@
 
 A simple React Native mobile application using the GNews API.
 
-## Features
-- Fetch N news articles
-- Search by keyword
-- Filter by title or author
-
 ## Setup
 1. Install Node.js
 2. Run `npm install -g expo-cli`
